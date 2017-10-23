@@ -2,11 +2,16 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               anglofox
+tagline:             software, and more
+# url:                 http://www.anglofox.com
 paginate:            1
 baseurl:             ""
+
+pages_list:       
+  about: '/about'
+  archive: '/archive'
+  feed: '/atom.xml'
 
 # Assets
 #

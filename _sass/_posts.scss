@@ -16,7 +16,10 @@
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: $flat-dark-blue;
+}
+.post-title a:hover {
+  color: $accent-green;
 }
 .page-title,
 .post-title {
@@ -56,7 +59,7 @@
     }
 
     a:hover {
-      color: #268bd2;
+      color: $accent-green;
       text-decoration: none;
 
       small {

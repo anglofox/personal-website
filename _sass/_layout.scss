@@ -3,11 +3,15 @@
 // Styles for managing the structural hierarchy of the site.
 
 .container {
-  max-width: 38rem;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
+  max-width: 50rem;
+  padding-left:  3rem;
+  padding-right: 3rem;
   margin-left:  auto;
   margin-right: auto;
+  border-width: 1rem;
+  border-left-style: solid;
+  background-color: $flat-white;
+  border-color: $flat-blue;
 }
 
 footer {
