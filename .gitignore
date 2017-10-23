@@ -3,6 +3,7 @@ _gh_pages
 _site
 .ruby-version
 .sass-cache
+_includes/google_analytics.html
 
 # Numerous always-ignore extensions
 *.diff
